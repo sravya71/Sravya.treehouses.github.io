@@ -32,6 +32,7 @@ It works as a front end "script" on top of the same docker api used by docker, s
 ### Windows
 
 - Please follow the official guide [Install Docker Toolbox on Windows](https://docs.docker.com/toolbox/toolbox_install_windows/).
+  Please follow the alternative way to [Install Docker on Windows using Virtual Box for different versions of Windows](https://docs.docker.com/toolbox/toolbox_install_windows/).
 
 **NOTE**: If you already have a previous version of VirtualBox installed, do not reinstall it with **Docker Toolbox**. When prompted, uncheck it. Otherwise, it might downgrade your virtual box or you might run into some errors during installation. Make sure that your virtual box is up to date after installation.
 
