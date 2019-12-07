@@ -1,4 +1,4 @@
-## Welcome to the treehouses project!
+## Please Check the Issue#296 - Add Instructions to Install Docker through Virtual Box!
 
 The [Open Learning Exchange](http://www.ole.org/) is a social benefit and for-purpose organization based in Cambridge, Massachusetts. Our mission is to provide universal quality education using open source materials and technology to overcome educational barriers.
 
@@ -15,8 +15,3 @@ More information about the internship and treehouses can be found in our [FAQ](h
 Should you wish to reach out for information or assistance, feel free to contact us in the [Gitter chatroom](https://gitter.im/treehouses/Lobby). Feel free to direct message our [members](./pages/vi/team.md) in Gitter if you like.
 
 ---
-
-#### Become a Virtual Intern!
-Follow the [first steps](pages/vi/firststeps.md) in order to learn how.
-
-**Find Us On:** [Linkedin](https://www.linkedin.com/company/open-learning-exchange) | [Twitter](https://twitter.com/oleorg) | [Facebook](https://www.facebook.com/openlearningexchange/)
