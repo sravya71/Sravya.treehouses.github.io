@@ -31,13 +31,14 @@ The goal of OLE is to provide educational infrastructure to learners and educato
 7.  Android device (phone or tablet)
 	- Memory (Ram): Minimum 2GB
 	- Operating System: Suggested Android 8 (Oreo) (minimum Android 6)
-8. Optional: [Real Time Clock (rtc)]("https://www.amazon.com/s?k=raspberry+pi+rtc")
-9. Optional: [Raspberry Pi 0W]("https://www.raspberrypi.org/products/raspberry-pi-zero-w/").
+8. Optional: Real Time Clock (rtc)
+9. Optional: Raspberry Pi 0W
 10. Optional: Raspberry pi Camera(s):
-	- [Raspberry Pi Camera]("https://www.raspberrypi.org/products/camera-module-v2/")
-	- [Raspberry Pi Night Vision Camera]("https://www.raspberrypi.org/products/pi-noir-camera-v2/")
-	- [generic Raspberry Pi 5 Megapixel Camera]("https://www.amazon.com/AuviPal-Megapixels-Raspberry-Camera-Module/dp/B07PQ63D2S/")
+	- Raspberry Pi Camera
+	- Raspberry Pi Night Vision Camera
+	- generic Raspberry Pi 5 Megapixel Camera
 11.  Optional: USB keyboard, mouse, monitor, and HDMI cable.
+12.  Optional: [A Sample Raspberry Pi Hardware](https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-MAX/dp/B07XPHWPRB/ref=sr_1_2_sspa?keywords=raspberry+pi+4&qid=1575733651&s=toys-and-games&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVk5BTzhFU0cxVTUyJmVuY3J5cHRlZElkPUEwODk1NDQ5OFdSMVlSMDlRTVhUJmVuY3J5cHRlZEFkSWQ9QTAyNTMyNjAyNVE1UU1DTk43Wk1XJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 
 ---
